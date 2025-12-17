@@ -12,7 +12,7 @@
   <a href="https://huggingface.co/oxe-auge">
     <img alt="Hugging Face Dataset" src="https://img.shields.io/badge/Hugging%20Face-FF8C00?style=for-the-badge&logo=huggingface&logoColor=white">
   </a>
-  <a href="https://twitter.com/TODO">
+  <a href="https://x.com/Lawrence_Y_Chen/status/2001372083704799706">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-111827?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
 </p>
